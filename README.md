@@ -21,4 +21,4 @@
 
 ##### Kami menyambut baik untuk kamu yang ingin berkontribusi sambil sama-sama belajar diproyek ini.
 
-<h1 align="center"> Terima kasih/h1>
+<h1 align="center">Terima kasih</h1>
